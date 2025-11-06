@@ -1,6 +1,6 @@
 # Ex.No:1(D) ARRAYS
 
-##QUESTION:
+## QUESTION:
 
 
 ## AIM:
@@ -37,3 +37,4 @@ RegisterNumber:
 
 
 ## RESULT:
+
