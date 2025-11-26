@@ -52,8 +52,8 @@ To build an inheritance-based Java program that calculates the final price of go
  ```
 /*
 Program to implement a Inheritance and Aggregation using Java
-Developed by : Afsar Jumail S
-Register Number : 212222240004
+Developed by : Gokul S
+Register Number : 212222110011
 */
 ```
 
@@ -183,6 +183,7 @@ public class GoldRateSystem {
 
 ## RESULT:
 Therefore the program successfully applies different discount rules for regular and premium customers.
+
 
 
 
