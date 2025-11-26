@@ -31,8 +31,8 @@ To demonstrate the use of a synchronized block for safely swapping two integer v
  ```
 /*
 Program to implement a Synchronization concept using Java
-Developed by : Afsar Jumail S
-Register Number : 212222240004
+Developed by : Gokul S
+Register Number : 212222110011
 */
 ```
 
@@ -84,6 +84,7 @@ public class SwapSynchronized {
 
 ## RESULT:
 The program successfully swaps the two integers inside a synchronized block and displays the swapped values safely.
+
 
 
 
